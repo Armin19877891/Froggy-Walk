@@ -14,3 +14,6 @@ Hij stuitert 1–2 keer
 Wrijving vertraagt hem mooi
 Daarna komt hij rustig tot stilstand , soms werkt niet*
 
+-V1.3 🐸 Froggy Walk- Change log
+
+Fixed met -0.1 in plaats van 0.3
